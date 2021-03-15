@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Himasha Weerasinghe.
+## I'm Himasha Weerasinghe 🇱🇰
 
 ### 💻 &nbsp;About Me 
 
