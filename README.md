@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to tech problems.
 - 🎓 &nbsp; Studying Software Engineering at Sri Lanka Institute of Information Technology (SLIIT).
 
-
+<br>
 ### 🛠 &nbsp;Tech Stack
 
 - 🌐 &nbsp;
@@ -50,5 +50,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=himashatw&show_icons=true&theme=vue)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himashatw&theme=vue)
