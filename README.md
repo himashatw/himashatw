@@ -60,5 +60,5 @@ Here are some ideas to get you started:
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/himashatw"><img src="https://img.shields.io/badge/-Himasha%20Weerasinghe-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>&nbsp
+<a href="https://www.linkedin.com/in/himashatw"><img src="https://img.shields.io/badge/-Himasha%20Weerasinghe-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>&nbsp&nbsp
 <a href="mailto:himashatw@gamil.com"><img src="https://img.shields.io/badge/-himashatw@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
