@@ -1,5 +1,11 @@
-### Hi there, I'm Himasha Weerasinghe 👋
+### Hi there 👋
 
+## I'm Himasha Weerasinghe.
+
+### 💻 &nbsp;About Me 
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
+- 🎓 &nbsp; Studying Software Engineering at Sri Lanka Institute of Information Technology (SLIIT).
 <!--
 **himashatw/himashatw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
