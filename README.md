@@ -55,3 +55,10 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=himashatw&show_icons=true&theme=vue)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himashatw&theme=vue)
+
+
+##  🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/himashatw"><img src="https://img.shields.io/badge/-Himasha%20Weerasinghe-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:camthomp96@gamil.com"><img src="https://img.shields.io/badge/-camthomp96@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
