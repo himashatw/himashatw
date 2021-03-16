@@ -61,4 +61,4 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://www.linkedin.com/in/himashatw"><img src="https://img.shields.io/badge/-Himasha%20Weerasinghe-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>&nbsp&nbsp
-<a href="mailto:himashatw@gamil.com"><img src="https://img.shields.io/badge/-himashatw@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:himashatw@gmail.com"><img src="https://img.shields.io/badge/-himashatw@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
