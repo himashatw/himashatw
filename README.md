@@ -1,6 +1,5 @@
-### Hi there 👋
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hello <𝚍𝚎𝚟𝚜/>, I'm Himasha Weerasinghe 🇱🇰</h1> 
 
-## I'm Himasha Weerasinghe 🇱🇰
 
 ### 💻 &nbsp;About Me 
 
@@ -52,9 +51,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=himashatw&show_icons=true&theme=vue)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himashatw&theme=vue)
+<p>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=himashatw&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=himashatw&theme=radical&layout=compact&exclude_lang=java+r" />
+</a>
+</p>
 
 
 ##  🤝🏻 &nbsp;Connect with Me
