@@ -51,12 +51,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>
-<a href="https://github.com/AVS1508">
+
+
+
+<p align="center">
+<a href="https://github.com/himashatw">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=himashatw&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=himashatw&theme=radical&layout=compact&exclude_lang=java+r" />
+  <img  src = "https://github-readme-streak-stats.herokuapp.com?user=himashatw&theme=dark&hide_border=false" >
 </a>
 </p>
+
 
 
 ##  🤝🏻 &nbsp;Connect with Me
