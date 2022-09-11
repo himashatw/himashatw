@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/himashatw">
     <img src="https://github-readme-stats.vercel.app/api?username=himashatw&show_icons=true&theme=radical&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=himashatw&theme=dark&hide_border=false" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himashatw&langs_count=10&layout=compact&theme=radical"/>
+    <img src="https://streak-stats.demolab.com?user=himashatw&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himashatw&langs_count=10&layout=compact&theme=radical" />
   </a>
 </p>
 
