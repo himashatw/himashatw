@@ -27,14 +27,14 @@ Here are some ideas to get you started:
 ### 📈 &nbsp;GitHub Stats
 
 <p align="center">
-<a href="https://github.com/himashatw">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=himashatw&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=himashatw&theme=radical&layout=compact&exclude_lang=java+r" />
-  <img  src = "https://github-readme-streak-stats.herokuapp.com?user=himashatw&theme=dark&hide_border=false" >
-</a>
+  <a href="https://github.com/himashatw">
+    <img src="https://github-readme-stats.vercel.app/api?username=himashatw&show_icons=true&theme=radical&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=himashatw&theme=dark&hide_border=false" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himashatw&langs_count=10&layout=compact&theme=radical"/>
+  </a>
 </p>
 
-## 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/himashatw"><img src="https://img.shields.io/badge/-Himasha%20Weerasinghe-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>&nbsp&nbsp
